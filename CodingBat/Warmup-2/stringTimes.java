@@ -1,4 +1,4 @@
-// Codingbat warmup-1 problem : stringTimes 
+// Codingbat warmup-2 problem : stringTimes 
 // Problem Link: http://codingbat.com/prob/p142270
 
 public String stringTimes(String str, int n)
