@@ -1,0 +1,7 @@
+// Codingbat String-1 problem : makeOutWord   
+// Problem Link: http://codingbat.com/prob/p184030
+
+public String makeOutWord(String out, String word)
+{
+    return out.substring(0,2) + word + out.substring(2,4);
+}
